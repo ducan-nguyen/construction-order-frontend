@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\PC\\\\Documents\\\\workspace-spring-tools-for-eclipse-5.1.1.RELEASE\\\\BuildingMaterialOrderSystem\" -Recurse -Filter \"*.java\" -File)",
-      "Bash(Select-Object -ExpandProperty FullName)",
-      "Bash(Sort-Object)"
-    ]
-  }
-}
